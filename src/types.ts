@@ -1,0 +1,5 @@
+export const TYPES = {
+  TODO_REPOSITORY: Symbol.for("TODO_REPOSITORY"),
+  CONFIG_REPOSITORY: Symbol.for("CONFIG_REPOSITORY"),
+  REQUEST_HANDLER: Symbol.for("REQUEST_HANDLER"),
+};
