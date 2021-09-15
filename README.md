@@ -25,12 +25,12 @@ npm run lint
 npm run serve:mock
 ```
 
-### Launch intergaration tests
+### Launch integration tests
 ```
 npm run test:integration
 ```
 
-### Launch intergaration tests in HEADLESS mode
+### Launch integration tests in HEADLESS mode
 ```
 npm run test:integration:headless
 ```
